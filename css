@@ -1,0 +1,112 @@
+/* Post */
+.post .post-desc h2.entry-title { font-size: 22px; line-height: 30px; }
+
+/* Section shadow */
+.section-shadow { -webkit-box-shadow: 0 10px 0 rgba(118, 105, 91, 0.2) inset; box-shadow:  0 10px 0 rgba(118, 105, 91, 0.2) inset; }
+
+@media only screen and (min-width: 1240px) {
+.header-stack #Top_bar .logo { margin-bottom: 10px; }
+}
+
+.newfont {
+
+font-family:   "Cabin Sketch", Arial, Tahoma, sans-serif;
+color: #444444;
+font-size: 17px;
+line-height: 31px;
+display: block;
+height: auto;
+margin: 0 0 35px 25px;
+top: 15px;
+position: relative;
+background: url(../images/stripes/textline.png) repeat-y;
+
+}
+
+
+/* Shadowing and corners */
+div#Wrapper {
+    box-shadow: 3px 3px 15px 3px rgba(0, 0, 0, 0.5)!important;
+    border-radius:14px;
+}
+
+.image_wrapper{
+    
+    border-radius:14px;
+}
+.mask{
+    
+    border-radius:14px;
+}
+.icon_box{
+    
+    border-radius:14px;
+}
+
+
+.fdbbox{
+    box-shadow: 3px 3px 15px 3px rgba(0, 0, 0, 0.4)!important;
+    
+}
+
+
+.fdbboxa{
+
+ border-radius:14px;
+ box-shadow: 3px 3px 15px 3px rgba(0, 0, 0, 0.7)!important;
+  padding: 3%;
+}
+
+
+.fdbboxb{
+
+ border-radius:14px;
+  box-shadow: 3px 3px 15px 3px rgba(0, 0, 0, 0.7)!important;
+  
+}
+
+.fdbl{
+
+color: #4black;
+
+}
+
+a.zoom {
+
+background-color: #537F37;
+
+}
+
+i.icon-search:hover   {
+
+color: #537F37;
+
+}
+a.link {
+
+background-color: #393939;
+
+}
+
+
+
+
+.faqfdb.mfn-acc.faq_wrapper span.num {
+
+font-family:   "Cabin Sketch", Arial, Tahoma, sans-serif;
+color: #59893a;
+font-size: 24px;
+line-height: 31px;
+
+}
+
+.faqfdb.mfn-acc.faq_wrapper span.num i {
+
+display:none!important;
+}
+
+
+.aligning {
+
+  vertical-align: middle;
+}
